@@ -63,7 +63,15 @@
  <summary><h3>스프링 DB 1편 - 데이터 접근 핵심 원리</h3></summary>
 
 - [JDBC 이해](https://github.com/jangwon3828/Spring-Study/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/JDBC%20%EC%9D%B4%ED%95%B4.md)
-     
+    
+- [커넥션풀과 데이터소스 이해](https://github.com/jangwon3828/Spring-Study/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/%EC%BB%A4%EB%84%A5%EC%85%98%ED%92%80%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%86%8C%EC%8A%A4%20%EC%9D%B4%ED%95%B4.md)
+ 
+- [트랜잭션 이해](https://github.com/jangwon3828/Spring-Study/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EC%9D%B4%ED%95%B4.md)
+    
+- [스프링과 문제 해결 - 트랜잭션](https://github.com/jangwon3828/Spring-Study/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/%EC%8A%A4%ED%94%84%EB%A7%81%EA%B3%BC%20%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EA%B2%B0%20-%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
+
+- [자바 예외 이해](https://github.com/jangwon3828/Spring-Study/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/%EC%9E%90%EB%B0%94%20%EC%98%88%EC%99%B8%20%EC%9D%B4%ED%95%B4.md)
+    
  </details>
  
  

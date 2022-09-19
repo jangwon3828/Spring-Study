@@ -59,6 +59,12 @@
 - [파일 업로드](https://github.com/jangwon3828/Spring-Study/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%202%ED%8E%B8%20-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/%ED%8C%8C%EC%9D%BC%20%EC%97%85%EB%A1%9C%EB%93%9C.md)
 
  </details>
+  <details>
+ <summary><h3>스프링 DB 1편 - 데이터 접근 핵심 원리</h3></summary>
+
+- [JDBC 이해](https://github.com/jangwon3828/Spring-Study/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/JDBC%20%EC%9D%B4%ED%95%B4.md)
+     
+ </details>
  
  
  

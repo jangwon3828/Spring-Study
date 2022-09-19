@@ -33,4 +33,14 @@
     
  </details>
  
+  <details>
+<summary><h3>스프링 MVC 2편 - 백엔드 웹 개발 활용 기술</h3></summary>
+
+- [타임리프 - 기본기능](https://github.com/jangwon3828/Spring-Study/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%202%ED%8E%B8%20-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/%ED%83%80%EC%9E%84%EB%A6%AC%ED%94%84%20-%20%EA%B8%B0%EB%B3%B8%EA%B8%B0%EB%8A%A5.md)
+
+ </details>
+ 
+ 
+ 
+ 
  
